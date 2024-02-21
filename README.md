@@ -56,3 +56,21 @@ Follow the on-screen instructions to place the white and black pieces on the che
 5. **Review Output**: The final output will include the chessboard with all pieces placed as specified, along with a list of black pawns that can be captured by the white piece(s) you placed.
 
 By following these steps, you can simulate different chessboard setups and understand the potential captures based on the pieces' positions.
+
+
+## Contributing
+
+As this is a learning project developed as part of the Turing College curriculum, contributing is not required. The project is intended to serve as an educational tool for understanding basic programming concepts in Python, including data structures, loops, and user input handling. I encourage learners to fork and experiment with the project for their personal learning and development, but no formal contributions are sought.
+
+## License
+
+This project is licensed under the MIT License. This means it is free to use, modify, and distribute, including for commercial purposes, provided that the original authorship is credited and the source code remains open source.
+
+The full text of the license can be found in the LICENSE file in the project repository. Here is a summary of the key points:
+
+- **Permission** is granted to anyone to use, copy, modify, and distribute this software and its documentation for any purpose.
+- **No Warranty**: The software is provided "as is", without warranty of any kind.
+- **Conditions**: Redistribution must include the original license and copyright notice.
+
+Please review the full license for more detailed information.
+
